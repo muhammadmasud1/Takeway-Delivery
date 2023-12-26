@@ -1,0 +1,7 @@
+genButton{
+width: 115px;
+height: 45px;
+flex-shrink: 0;
+border-radius: 6px;
+background: #35B8BE;
+}

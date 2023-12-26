@@ -1,0 +1,21 @@
+span{
+       color: #35B8BE;
+font-family: Inter;
+font-size: 65px;
+font-style: normal;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 1.8px;     
+}
+
+p {
+color: #546285;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 24.12px; /* 134% */
+letter-spacing: 0.36px;
+padding-top: 24px ;
+padding-bottom: 24px;
+}

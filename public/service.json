@@ -1,0 +1,38 @@
+[
+  {
+    "productImage": "https://i.ibb.co/VTdYpv6/burger02.png",
+    "productName": "Burger Dreams",
+    "productDescription": "A mouth-watering pizza  cheeses, tomato sauce, and your favorite toppings. Perfect for pizza lovers!",
+    "productPrice": "$14.99"
+  },
+  {
+    "productImage": "https://i.ibb.co/DgvcM8L/burger06.png ",
+    "productName": "Burger Waldo",
+    "productDescription": "Soft and chewy  with the finest ingredients. Each bite is a delightful mix of sweet chocolate goodness.",
+    "productPrice": "$9.99"
+  },
+  {
+    "productImage": "https://i.ibb.co/ryK2M0z/burger04.png",
+    "productName": "Burger Cali",
+    "productDescription": "A healthy and lettuce, colorful vegetables, and a zesty dressing. Ideal for a light and nutritious meal.",
+    "productPrice": "$7.99"
+  },
+  {
+    "productImage": "https://i.ibb.co/D9MC3Yj/burger03.png",
+    "productName": "Burger Bacon Buddy",
+    "productDescription": "A bold and aromatic beans. Kickstart your day with this rich and invigorating brew.",
+    "productPrice": "$3.99"
+  },
+  {
+    "productImage": "https://i.ibb.co/VTdYpv6/burger02.png",
+    "productName": "Burger Spicy",
+    "productDescription": "Layers of creamy yogurt, f together in this delightful parfait. A delicious and wholesome treat.",
+    "productPrice": "$5.99"
+  },
+  {
+    "productImage": "https://i.ibb.co/h2Zz48W/burger01.png",
+    "productName": "Burger Classic",
+    "productDescription": "A stylish and durable leather backpack designed  for organized and convenient storage.",
+    "productPrice": "$49.99"
+  }
+]
